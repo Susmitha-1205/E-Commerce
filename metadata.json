@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Web Application",
+  "description": "A basic online store with product catalog, add-to-cart, checkout, order tracking, admin/user role-based access, and Express API with PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
